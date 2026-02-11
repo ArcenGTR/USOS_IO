@@ -71,10 +71,10 @@ ng serve --open
 
 (You have to install required packages first and run venv but I'm too lazy to explain how to do that)
 
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D562DAQF8SE1fiVtJew/profile-treasury-image-shrink_800_800/B56ZYAkZ2nGsAc-/0/1743766265807?e=1762365600&v=beta&t=l-zzQQA6XBq01nIapvNUaQZuH5EykoQuJR9cA13Y5o4">
-  <img src="https://media.licdn.com/dms/image/v2/D562DAQGztv1Xa7V6aA/profile-treasury-image-shrink_800_800/B56ZYAkVgEHEAY-/0/1743766248063?e=1762365600&v=beta&t=-RfMcUyCUF4w70XS4KsIvQJHHMr9tCMM7Glq6x6fLAQ">
-  <img src="https://media.licdn.com/dms/image/v2/D562DAQE1waM8t6tq5w/profile-treasury-image-shrink_800_800/B56ZYAkSxyGsAY-/0/1743766236793?e=1762365600&v=beta&t=WR7n_aGkv5GekjZ_UaH9GnDeoqPoZXQ2OqcFqfcSuHo">
-  <img src="https://media.licdn.com/dms/image/v2/D562DAQGaWapoq-YBbQ/profile-treasury-image-shrink_800_800/B56ZYAkPPwGsAY-/0/1743766222313?e=1762365600&v=beta&t=sAe0GbxLpbM3zU81Jx_uvIuTqqXYx4ko9GH0E64dmIA">
-  <img src="https://media.licdn.com/dms/image/v2/D562DAQGrv3Kiyf785w/profile-treasury-image-shrink_800_800/B56ZYAkH6KGoAY-/0/1743766192792?e=1762365600&v=beta&t=i-atZHPyTCCiC-ghGMMQv8VMUZwv1-r83EklMTg_O-0">
-</p>
+
+![1743766192792](https://github.com/user-attachments/assets/1f03c434-d9f0-48ac-9335-fd35c961a73c)
+![1743766222313](https://github.com/user-attachments/assets/3deef6ba-4f6c-41e2-a6eb-594a77b53966)
+![1743766236793](https://github.com/user-attachments/assets/90e3a462-6102-425a-82f5-f26c21127845)
+![1743766248063](https://github.com/user-attachments/assets/092ddae5-fbfb-405a-896c-780ae7553bbc)
+![1743766265807](https://github.com/user-attachments/assets/22cc5309-9c99-462a-93f2-e54ac2a84109)
+
